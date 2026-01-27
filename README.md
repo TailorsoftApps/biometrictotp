@@ -1,2 +1,7 @@
-# biometrictotp
-Privacy Policy for BiometricTOTP app.
+# BiometricTOTP – Privacy Policy
+
+This repository hosts the public privacy policy for the iOS app **BiometricTOTP**.
+
+The privacy policy is available at:
+https://tailorsoftapps.github.io/biometrictotp/privacy.html
+
