@@ -6,4 +6,5 @@ The privacy policy is available at:
 https://tailorsoftapps.github.io/biometrictotp/privacy.html
 
 The support information is available at:
-https://tailorsoftapps.github.io/biometrictotp/security.html
+https://tailorsoftapps.github.io/biometrictotp/support.html
+
